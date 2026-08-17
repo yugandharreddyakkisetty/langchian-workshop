@@ -1,0 +1,10 @@
+{
+  "dependencies": [".", "./math_agent","./graph_clerk_agent","./nongraph_clerk_agent","./sql_clerk_agent"],
+  "graphs": {
+    "math_agent": "./math_agent/agent.py:agent",
+    "graph_clerk_agent": "./graph_clerk_agent/clerk.py:clerk",
+    "nongraph_clerk_agent": "./nongraph_clerk_agent/clerk/agent.py:clerk",
+    "sql_agent": "./sql_clerk_agent/agent.py:agent"
+  },
+  "env": ".env"
+}

@@ -1,0 +1,14 @@
+langchain
+langchain-openai
+langchain-anthropic
+langchain-azure-ai
+langchain-aws
+langchain-google-genai
+azure-identity
+boto3
+python-dotenv
+langgraph
+langgraph-cli[inmem]
+langchain-community
+psycopg2-binary
+sqlalchemy
