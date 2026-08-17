@@ -7,3 +7,4 @@
 .env
 raw_date/
 sql/
+.venv
