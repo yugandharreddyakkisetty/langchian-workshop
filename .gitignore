@@ -5,3 +5,5 @@
 # LangGraph
 .langgraph_api/
 .env
+raw_date/
+sql/
